@@ -1,0 +1,1 @@
+Some rules in coding javascript.
